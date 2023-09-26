@@ -17,13 +17,10 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I encountered many challenges when trying to create a gif. I thought that maybe the video was too long or the size was too big, but an error occurred every time I tried to submit it to Giphy. When I tried Loom, it worked once, but the gif it let's you embed is only the first few seconds (I'm assuming this happens when the video is too long). 
 
 ## License
 
