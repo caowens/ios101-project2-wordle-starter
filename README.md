@@ -17,6 +17,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
+![Kapture 2023-09-26 at 01 37 26](https://github.com/caowens/ios101-project2-wordle-starter/assets/70489592/64d53937-5c62-4d29-a642-ff5839bf8763)
 
 ## Notes
 
