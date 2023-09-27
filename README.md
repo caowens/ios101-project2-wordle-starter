@@ -16,8 +16,7 @@ The following **required** functionality is completed:
 - [X] User can select "alien wordle", causing the goal word to change after each guess
 
 ## Video Walkthrough
-
-![Kapture 2023-09-26 at 01 37 26](https://github.com/caowens/ios101-project2-wordle-starter/assets/70489592/64d53937-5c62-4d29-a642-ff5839bf8763)
+![Kapture 2023-09-27 at 15 09 19](https://github.com/caowens/ios101-project2-wordle-starter/assets/70489592/1a86d82c-1e47-4156-9738-38be221b248f)
 
 ## Notes
 
